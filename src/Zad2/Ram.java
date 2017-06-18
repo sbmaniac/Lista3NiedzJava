@@ -3,9 +3,10 @@ package Zad2;
 /**
  * Created by sbmaniac on 18.06.2017.
  */
-public interface Ram    {
+public interface Ram {
 
-    int getPrice();
-    void getRamInfo();
+    public int getPrice();
+
+    public void getRamInfo();
 
 }

@@ -5,6 +5,7 @@ package Zad2;
  */
 public interface GraphicCard {
 
-    int getPrice();
-    void getGraphicCardInfo();
+    public int getPrice();
+
+    public void getGraphicCardInfo();
 }
